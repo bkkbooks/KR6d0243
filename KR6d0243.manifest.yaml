@@ -1,0 +1,485 @@
+canonical_identifier: bkk:krp/KR6d0243/v1
+canonical_location: https://kanripo.org/bkk/KR6d0243/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 教觀撮要論
+  identifiers:
+    alt_id:
+    - X57n0967
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X57/X57n0967.xml
+    old_id: X57n0967
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0243_000.yaml, hash: 'sha256:ccc817f4cc44fcd62c55a7c667b63f86f604dfd54f24a5f6f06849ed07d04622'}
+  - {seq: 3, filename: KR6d0243_003.yaml, hash: 'sha256:1fa24f1de71b9f054d734c567bdc0a9f19618258d552f1dc0405ef78c7f59de9'}
+  - {seq: 4, filename: KR6d0243_004.yaml, hash: 'sha256:1bae0850fb68ccf1ca2ba175489bf1673fcb8a43b9e434fc3eeb9b0b39799c92'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6d0243_000.markers.yaml, hash: 'sha256:b85db3e625a3733724d38c31d807c94b837e4ac22abd92b45597cfe519c0290f'}
+  - {seq: 3, role: markers, filename: assets/KR6d0243_003.markers.yaml, hash: 'sha256:229c004784b1bb8c2e1744ee1b5f7cdf6975a394cfb7907a3406043232bcef99'}
+  - {seq: 4, role: markers, filename: assets/KR6d0243_004.markers.yaml, hash: 'sha256:4922bdb61a25912a2036171a1e24fe25ec4bb957901a9bfd516a34c17172b572'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6d0243_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 967-A 刻教觀撮要論序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0243_X_000-mulu-2
+    span:
+    - front
+    - 146
+    - 146
+  label: 台宗教觀撮要論目
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0243_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 11965
+  label: 台宗教觀撮要論卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0243_X_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0243_X_003-mulu-2
+    span:
+    - body
+    - 470
+    - 470
+  label: 論諸部經王
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0243_X_003-mulu-3
+    span:
+    - body
+    - 921
+    - 921
+  label: 論光明經王
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0243_X_003-mulu-4
+    span:
+    - body
+    - 1916
+    - 1916
+  label: 論輔行引大經明被接文
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0243_X_003-mulu-5
+    span:
+    - body
+    - 2762
+    - 2762
+  label: 論聲聞攝屬
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0243_X_003-mulu-6
+    span:
+    - body
+    - 3541
+    - 3541
+  label: 論三日喻文
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0243_X_003-mulu-7
+    span:
+    - body
+    - 4124
+    - 4124
+  label: 論解謗別圓初心見佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0243_X_003-mulu-8
+    span:
+    - body
+    - 4795
+    - 4795
+  label: 論立識生法
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0243_X_003-mulu-9
+    span:
+    - body
+    - 5558
+    - 5558
+  label: 論華嚴聲聞有無
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0243_X_003-mulu-10
+    span:
+    - body
+    - 6164
+    - 6164
+  label: 論玄文四序
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0243_X_003-mulu-11
+    span:
+    - body
+    - 6622
+    - 6622
+  label: 論四種教證
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0243_X_003-mulu-12
+    span:
+    - body
+    - 7503
+    - 7503
+  label: 論法華教主
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0243_X_003-mulu-13
+    span:
+    - body
+    - 8078
+    - 8078
+  label: 論籤文四心同一行一緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0243_X_003-mulu-14
+    span:
+    - body
+    - 8478
+    - 8478
+  label: 論當機結緣二眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0243_X_003-mulu-15
+    span:
+    - body
+    - 9012
+    - 9012
+  label: 論含中發習
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0243_X_003-mulu-16
+    span:
+    - body
+    - 9356
+    - 9356
+  label: 論三千餘義
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0243_X_003-mulu-17
+    span:
+    - body
+    - 9810
+    - 9810
+  label: 論中諦具法
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0243_X_003-mulu-18
+    span:
+    - body
+    - 10140
+    - 10140
+  label: 又
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0243_X_003-mulu-19
+    span:
+    - body
+    - 10393
+    - 10393
+  label: 論部教之義
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0243_X_003-mulu-20
+    span:
+    - body
+    - 10764
+    - 10764
+  label: 論四教破性
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0243_X_003-mulu-21
+    span:
+    - body
+    - 11086
+    - 11086
+  label: 論籤文起心之義
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0243_X_003-mulu-22
+    span:
+    - body
+    - 11486
+    - 11486
+  label: 論隱實施權
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0243_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 9035
+  label: 台宗教觀撮要論卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0243_X_004-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 論光明立題
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0243_X_004-mulu-2
+    span:
+    - body
+    - 751
+    - 751
+  label: 論教行五章
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0243_X_004-mulu-3
+    span:
+    - body
+    - 1144
+    - 1144
+  label: 論玄文引壽量證經體文
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0243_X_004-mulu-4
+    span:
+    - body
+    - 1733
+    - 1733
+  label: 論玄籤指文例
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0243_X_004-mulu-5
+    span:
+    - body
+    - 2024
+    - 2024
+  label: 論玅記釋中止一城文
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0243_X_004-mulu-6
+    span:
+    - body
+    - 2292
+    - 2292
+  label: 論玅記釋轉法輪文
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0243_X_004-mulu-7
+    span:
+    - body
+    - 2522
+    - 2522
+  label: 論三法無邊
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0243_X_004-mulu-8
+    span:
+    - body
+    - 2801
+    - 2801
+  label: 論玄序十德
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0243_X_004-mulu-9
+    span:
+    - body
+    - 3181
+    - 3181
+  label: 論萬乘數
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0243_X_004-mulu-10
+    span:
+    - body
+    - 3527
+    - 3527
+  label: 論輔行十義評無情佛性
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0243_X_004-mulu-11
+    span:
+    - body
+    - 3802
+    - 3802
+  label: 論玄籤稱味味例
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0243_X_004-mulu-12
+    span:
+    - body
+    - 4084
+    - 4084
+  label: 頌解金錍四十六問
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0243_X_004-mulu-13
+    span:
+    - body
+    - 6190
+    - 6190
+  label: 首眾南湖講光明玄題
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0243_X_004-mulu-14
+    span:
+    - body
+    - 6529
+    - 6529
+  label: 觀經疏題
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0243_X_004-mulu-15
+    span:
+    - body
+    - 6757
+    - 6757
+  label: 觀音玄題
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0243_X_004-mulu-16
+    span:
+    - body
+    - 6891
+    - 6891
+  label: 法華文句題
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0243_X_004-mulu-17
+    span:
+    - body
+    - 7036
+    - 7036
+  label: 十不二門題
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0243_X_004-mulu-18
+    span:
+    - body
+    - 7173
+    - 7173
+  label: 入廣恩祝　聖講題
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0243_X_004-mulu-19
+    span:
+    - body
+    - 7332
+    - 7332
+  label: No. 967-B 先師頑空和尚三千說附
+  type: mulu
+  level: 1
+hash: sha256:a4b265cc310daf4f17416ad4bf320fca009c03eaf0d9da0d96cc713f4a320326
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
