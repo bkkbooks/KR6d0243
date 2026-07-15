@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6d0243/v1
 canonical_location: https://kanripo.org/bkk/KR6d0243/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 教觀撮要論
   identifiers:
@@ -21,13 +21,13 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6d0243_000.yaml, hash: 'sha256:db40653385a25b555dd11965d5db21c66e8608bc034d7773c2441cf2e8f90c89'}
-  - {seq: 3, filename: KR6d0243_003.yaml, hash: 'sha256:b8eb2e1bc45fda805cd63c22d87d0fca4a8fe61c987acc0fd73484a12084dc0a'}
-  - {seq: 4, filename: KR6d0243_004.yaml, hash: 'sha256:0b767558b7fc6a7a6c4454828198100fe39f881ca8026113a130d0fc397fffb1'}
+  - {seq: 0, filename: KR6d0243_000.yaml, hash: 'sha256:5a44f5a1410e7a9a6faca23e7412cff85070f0dd869f73b1f224665e88b00eda'}
+  - {seq: 3, filename: KR6d0243_003.yaml, hash: 'sha256:aa49f47deffda01c76c29d15c3ba2b5923593dbeaf4f30e4f43624923f3e6384'}
+  - {seq: 4, filename: KR6d0243_004.yaml, hash: 'sha256:3e2eed886f9de34f77f1b4b3e0dfc238beb02f06cd9a361eefff9f036ab5fd91'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0243_000.markers.yaml, hash: 'sha256:c2998d0cd3a58d4e07040eb5964eeebaa07b1874b2a389d423fa7751cfc95093'}
-  - {seq: 3, role: markers, filename: assets/KR6d0243_003.markers.yaml, hash: 'sha256:69de0abe936793e5df3c3cdaa43a80241153fd0535de84fe076cf3b408651d4a'}
-  - {seq: 4, role: markers, filename: assets/KR6d0243_004.markers.yaml, hash: 'sha256:689ea6b6851855a3cd6d68fd0b75d93eac01bce6b972f4f36fdb31ba65f3b496'}
+  - {seq: 0, role: markers, filename: assets/KR6d0243_000.markers.yaml, hash: 'sha256:fe69c12ed610523afd147eefbbf447d16335bd02751b2d71532f98bf99165537'}
+  - {seq: 3, role: markers, filename: assets/KR6d0243_003.markers.yaml, hash: 'sha256:4d81b82ea97cdfc00485202ddd009a64d19cc26f3e47bd2dd42742e41edb2efc'}
+  - {seq: 4, role: markers, filename: assets/KR6d0243_004.markers.yaml, hash: 'sha256:6bab6013be2ad3af9f784527e1c7702beeec85ec2d9959095b53206e07092288'}
 table_of_contents:
 - ref:
     seq: 0
@@ -479,4 +479,7 @@ table_of_contents:
   label: No. 967-B 先師頑空和尚三千說附
   type: mulu
   level: 1
-hash: sha256:874622c0e3af10fdfbf35e42d29a2dec31c736c449ded72c1313f5b94d07f0b2
+hash: sha256:48f998f531a420eee43d0ad0262333905716b9e11e25d04ba63512cfabdafe72
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
