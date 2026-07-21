@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6d0243_000.yaml, hash: 'sha256:5a44f5a1410e7a9a6faca23e7412cff85070f0dd869f73b1f224665e88b00eda'}
+  - {seq: 0, filename: KR6d0243_000.yaml, hash: 'sha256:414065f25b5f030c8b657230e56483ae7b1352548fac6f42c9a93a6319442781'}
   - {seq: 3, filename: KR6d0243_003.yaml, hash: 'sha256:aa49f47deffda01c76c29d15c3ba2b5923593dbeaf4f30e4f43624923f3e6384'}
   - {seq: 4, filename: KR6d0243_004.yaml, hash: 'sha256:3e2eed886f9de34f77f1b4b3e0dfc238beb02f06cd9a361eefff9f036ab5fd91'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0243_000.markers.yaml, hash: 'sha256:fe69c12ed610523afd147eefbbf447d16335bd02751b2d71532f98bf99165537'}
+  - {seq: 0, role: markers, filename: assets/KR6d0243_000.markers.yaml, hash: 'sha256:e959bb824ec502423131918a83246edd2663845961a4548710dc2b3ae128fb88'}
   - {seq: 3, role: markers, filename: assets/KR6d0243_003.markers.yaml, hash: 'sha256:4d81b82ea97cdfc00485202ddd009a64d19cc26f3e47bd2dd42742e41edb2efc'}
   - {seq: 4, role: markers, filename: assets/KR6d0243_004.markers.yaml, hash: 'sha256:6bab6013be2ad3af9f784527e1c7702beeec85ec2d9959095b53206e07092288'}
 table_of_contents:
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0243_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 967-A 刻教觀撮要論序
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0243_X_000-mulu-2
     span:
-    - front
+    - body
     - 146
     - 146
   label: 台宗教觀撮要論目
@@ -479,7 +479,7 @@ table_of_contents:
   label: No. 967-B 先師頑空和尚三千說附
   type: mulu
   level: 1
-hash: sha256:48f998f531a420eee43d0ad0262333905716b9e11e25d04ba63512cfabdafe72
+hash: sha256:2cbb64568b219db79fdec8233e9e764f26e6c7f129affabee0084f4bdb404b91
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
